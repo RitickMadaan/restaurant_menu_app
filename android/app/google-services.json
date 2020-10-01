@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "823058843174",
+    "firebase_url": "https://temple-run-menu-app.firebaseio.com",
+    "project_id": "temple-run-menu-app",
+    "storage_bucket": "temple-run-menu-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823058843174:android:c88a2ec99a2e64769088e7",
+        "android_client_info": {
+          "package_name": "com.example.restaurant_menu_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823058843174-mo5visk1eoidqhspmk8emn9vupte1tnh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.restaurant_menu_app",
+            "certificate_hash": "341245fe33caf5ede78b4ebfe25cfb0d7fc76e5a"
+          }
+        },
+        {
+          "client_id": "823058843174-ihtrnbi77go97vu17br8j7eodv5q80qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5OPMnjxTMXN-tPY_4oWa8cdTt1lW52vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823058843174-ihtrnbi77go97vu17br8j7eodv5q80qn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
